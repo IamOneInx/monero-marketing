@@ -28,7 +28,7 @@ Two deliverables that address Monero's biggest adoption gap: **discoverability**
 
 A plain-language website explaining Monero to people who have never heard of it — written like Cash App explains itself, not like a whitepaper. No jargon. No crypto maximalism. Just honest, human answers to "what is this and why should I care."
 
-**Live demo:** [link after deployment]
+**Live demo:** https://monero-site-3hq.pages.dev (permanent domain TBD)
 
 Key sections:
 - Why financial privacy matters (without framing it as criminal)
