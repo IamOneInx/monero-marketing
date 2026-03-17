@@ -1,15 +1,15 @@
 ---
 layout: fr
-title: "MoneroPay + Monero Marketing Site — making XMR usable at everyday merchants"
+title: "PayXMR + Monero Marketing Site — making XMR usable at everyday merchants"
 author: IamOneInx
 date: 2026-03-16
 amount: 65
 milestones:
-  - name: Marketing site live + MoneroPay MVP
+  - name: Marketing site live + PayXMR MVP
     funds: 30
     done:
     status: unfinished
-  - name: MoneroPay merchant mode + mobile polish
+  - name: PayXMR merchant mode + mobile polish
     funds: 20
     done:
     status: unfinished
@@ -34,16 +34,16 @@ Key sections:
 - Why financial privacy matters (without framing it as criminal)
 - How Monero compares to banks, Venmo, wire transfers
 - How to get started in under 5 minutes
-- MoneroPay — how to use XMR at local merchants
+- PayXMR — how to use XMR at local merchants
 
 Open source, MIT licensed, free for any community member to fork, translate, or improve.
 
-### 2. MoneroPay — QR-based point-of-sale PWA
+### 2. PayXMR — QR-based point-of-sale PWA
 
 A mobile-first web app (Progressive Web App, no download required) that solves the "coffee shop problem" — using XMR for everyday in-person purchases.
 
 **Merchant flow:**
-1. Open moneropay.app on phone
+1. Open payxmr.app on phone
 2. Enter your XMR address once (saved locally)
 3. Type in the amount (USD, EUR, or XMR)
 4. Show the QR to the customer
@@ -77,7 +77,7 @@ Monero has the best privacy technology of any cryptocurrency. It is arguably the
 
 Bitcoin had this same problem from 2011–2015. The community built BitPay, Coinbase, and a thousand explainer sites. Those tools drove adoption. Monero needs the same — but with the privacy ethos intact.
 
-The marketing site and MoneroPay are not about compromising Monero's values. They are about communicating those values in language that normal people understand, and giving them a tool to act on it immediately.
+The marketing site and PayXMR are not about compromising Monero's values. They are about communicating those values in language that normal people understand, and giving them a tool to act on it immediately.
 
 ---
 
@@ -93,18 +93,18 @@ Community developer with working shipped code:
 ## Milestones
 
 ### Milestone 1 — 30 XMR
-**Marketing site + MoneroPay MVP live**
+**Marketing site + PayXMR MVP live**
 
 Deliverables:
 - Marketing site deployed at public domain, open source on GitHub
-- MoneroPay MVP: merchant QR generation, live XMR/USD price, basic payment detection
+- PayXMR MVP: merchant QR generation, live XMR/USD price, basic payment detection
 - Mobile-tested on iOS and Android
 - README and self-hosting guide
 
 Timeline: 3 weeks from funding
 
 ### Milestone 2 — 20 XMR
-**MoneroPay merchant mode + polish**
+**PayXMR merchant mode + polish**
 
 Deliverables:
 - Unique subaddress per transaction (via monero-wallet-rpc or public node)
